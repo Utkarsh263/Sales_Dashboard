@@ -1,8 +1,3 @@
-Perfect 👍 — you’ve added **DAX measures** using dual date relationships for comparative time-period analysis.
-Here’s your **final professional GitHub README.md**, fully formatted for GitHub (with your DAX code, image names, and all project details).
-
----
-
 # 🧠 Company Sales Analysis Dashboard (Power BI)
 
 ## 📊 Project Overview
@@ -115,52 +110,46 @@ By applying `USERELATIONSHIP()` in DAX, both time periods can be analyzed simult
 
 ## 📊 Dashboard Visuals and Insights
 
-### 1️⃣ **Top & Bottom Performing Products**
+### 🖼️ **Question Slide**
 
-* **Top 5 / Bottom 5 Products** by Sales, Quantity, and Profit.
-* Helps identify best sellers and underperforming items.
-
-📸 *Screenshot:* `Screenshot 2025-11-07 004217.png`
+![Question Slide](https://github.com/Utkarsh263/Sales_Dashboard/blob/main/Screenshot%202025-11-07%20004355.png)
+This slide contains the project questions and problem statement — outlining analytical objectives like top/bottom product analysis, sales trends, discounts, and profit insights.
 
 ---
 
-### 2️⃣ **Detailed Data Table View**
+### 🖼️ **1️⃣ First Slide — Detailed Data Table View **
+
+![Top & Bottom Products](https://github.com/Utkarsh263/Sales_Dashboard/blob/main/Screenshot%202025-11-07%20004217.png)
 
 * Interactive table displaying Customer, Product, Promotion, Date, Price, Discount, Net Sale, and Profit.
 * Includes slicers for **Date, Customer Name, Product Name, and Promotion Name**.
 
-📸 *Screenshot:* `Screenshot 2025-11-07 004238.png`
+---
+
+### 🖼️ **2️⃣ Second Slide — Detailed Data Table View**
+
+![Detailed Data Table View](https://github.com/Utkarsh263/Sales_Dashboard/blob/main/Screenshot%202025-11-07%20004238.png)
+
+* **Top 5 / Bottom 5 Products** by Sales, Quantity, and Profit.
+* Highlights best-selling and underperforming items.
 
 ---
 
-### 3️⃣ **Comparative Period Analysis (Date 1 vs Date 2)**
+### 🖼️ **3️⃣ Third Slide — Comparative Period Analysis (Date 1 vs Date 2)**
 
-* Two date slicers to compare any time periods.
+![Comparative Period Analysis](https://github.com/Utkarsh263/Sales_Dashboard/blob/main/Screenshot%202025-11-07%20004258.png)
+
+* Two date slicers allow comparing **two time periods**.
 * Displays **Total Sales**, **Total Profit**, and **Total Units Sold** for both ranges.
 
-📸 *Screenshot:* `Screenshot 2025-11-07 004258.png`
-
 ---
 
-### 4️⃣ **Top/Bottom Product Visuals**
+### 🖼️ **4️⃣ Fourth Slide — Product Performance and Category Insights**
 
-* Separate charts for:
+![Product Performance Insights](https://github.com/Utkarsh263/Sales_Dashboard/blob/main/Screenshot%202025-11-07%20004317.png)
 
-  * Top 5 & Bottom 5 by Sales
-  * Top 5 & Bottom 5 by Quantity
-  * Top 5 & Bottom 5 by Profit
-
-📸 *Screenshot:* `Screenshot 2025-11-07 004317.png`
-
----
-
-### 5️⃣ **Comprehensive Sales Overview**
-
-* Map visual for **Sales by City**
-* KPI cards showing **Total Orders**, **Average Discount**, and **Profit vs Net Sales** correlation.
-* Line chart visualizing **Sales Trends by Period (2020–2024)**
-
-📸 *Screenshot:* `Screenshot 2025-11-07 004355.png`
+* Visuals for **Top/Bottom Products** by Sales, Quantity, and Profit.
+* Useful for identifying product category performance.
 
 ---
 
@@ -211,14 +200,22 @@ It demonstrates expertise in **Power BI**, **data modeling**, and **business int
 
 ## 📂 File References
 
-| File Name                          | Description                       |
-| ---------------------------------- | --------------------------------- |
-| `Screenshot 2025-11-07 004217.png` | Top/Bottom Products               |
-| `Screenshot 2025-11-07 004238.png` | Data Table View                   |
-| `Screenshot 2025-11-07 004258.png` | Comparative Period Analysis       |
-| `Screenshot 2025-11-07 004317.png` | Product Performance Visuals       |
-| `Screenshot 2025-11-07 004355.png` | Sales by City & Summary Dashboard |
+| File Name                          | Description                           |
+| ---------------------------------- | ------------------------------------- |
+| `Screenshot 2025-11-07 004355.png` | Project Questions / Problem Statement |
+| `Screenshot 2025-11-07 004217.png` | Data Table View (Slide 1)             |  
+| `Screenshot 2025-11-07 004238.png` | Top/Bottom Products (Slide 2)         |
+| `Screenshot 2025-11-07 004258.png` | Comparative Period Analysis (Slide 3) |
+| `Screenshot 2025-11-07 004317.png` | Product Performance Visuals (Slide 4) |
 
 ---
 
-Would you like me to generate this README as a downloadable **`README.md` file** (ready to upload to GitHub, with markdown formatting and emojis preserved)?
+## ✍️ Author
+
+**Utkarsh Kohli**
+
+---
+
+## 📘 Disclaimer
+
+This Power BI dashboard was created **for educational and learning purposes only**. It is intended to demonstrate skills in data analysis, visualization, and DAX modeling using sample or mock data.
